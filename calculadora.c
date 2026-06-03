@@ -50,7 +50,7 @@ int main()
         scanf(" %c", &continuar);
     }
 
-    printf("Feito Por Gustavo Moraes Orlando");
+    printf("Feito Por Benjamim Messias");
 
     return 0;
 }
